@@ -1,16 +1,9 @@
-# GoAbsensi
-
-[![Fork](https://img.shields.io/github/forks/abuazis/GoAbsensi?style=social)](https://github.com/abuazis/GoAbsensi/fork)&nbsp; [![Star](https://img.shields.io/github/stars/abuazis/GoAbsensi?style=social)](https://github.com/abuazis/GoAbsensi/star)&nbsp; [![Watches](https://img.shields.io/github/watchers/abuazis/GoAbsensi?style=social)](https://github.com/abuazis/GoAbsensi/)&nbsp;
+# Absensi Online
 
 > Modern Presence App
 
 ## Description
-GoAbsensi adalah aplikasi presensi yang digunakan siswa / karyawan untuk melakukan absensi harian secara digital. Terdapat beberapa keamanan yang memperkuat akurasi data sehingga pengguna tidak bisa melakukan tindakan kecurangan.
-
-## Demo
-Get GoAbsensi on PlayStore <a href="https://play.google.com/store/apps/details?id=com.abuaziz.go_absensi">https://play.google.com/store/apps/details?id=com.abuaziz.go_absensi</a>
-
-<p><img  src="https://i.ibb.co/C8L3HSv/Go-Absensi-Feature-Graphic.png"/></p>
+Aplikasi ini adalah aplikasi presensi yang dapat digunakan oleh siswa / karyawan untuk melakukan absensi harian secara digital. Terdapat beberapa keamanan yang memperkuat akurasi data sehingga pengguna tidak bisa melakukan tindakan kecurangan.
 
 ## Security Features
 
@@ -35,7 +28,7 @@ Get GoAbsensi on PlayStore <a href="https://play.google.com/store/apps/details?i
 
 ## Installing
 
-- git clone https://github.com/abuazis/GoAbsensi.git
+- git clone https://github.com/akhmadafandik-aa/absensi-online.git
 - flutter packages get
 - flutter run
 
@@ -43,11 +36,3 @@ Get GoAbsensi on PlayStore <a href="https://play.google.com/store/apps/details?i
 
 - 1.0.0+1
   - CHANGE: APK release
-
-## Credit
-
-Abu Azis – [@abuzaio](https://instagram.com/abuzaio) – abuazis0204@gmail.ocm
-
-Distributed under the MIT license. See `LICENSE` for more information.
-
-[https://github.com/abuazis](https://github.com/abuazis/)
